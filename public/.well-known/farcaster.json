@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Redit",
+    "subtitle": "Built with Zara",
+    "description": "Redit is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://b317468a8adc472ab8621fc9817b10e4-l57i-lfwvxdk6l-vistara.vercel.app",
+    "splashImageUrl": "https://b317468a8adc472ab8621fc9817b10e4-l57i-lfwvxdk6l-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://b317468a8adc472ab8621fc9817b10e4-l57i-lfwvxdk6l-vistara.vercel.app/image.png",
+    "tagline": "Redit",
+    "screenshotUrls": [
+      "https://b317468a8adc472ab8621fc9817b10e4-l57i-lfwvxdk6l-vistara.vercel.app/screenshot.png",
+      "https://b317468a8adc472ab8621fc9817b10e4-l57i-lfwvxdk6l-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://b317468a8adc472ab8621fc9817b10e4-l57i-lfwvxdk6l-vistara.vercel.app/api/webhook"
+  }
+}
